@@ -4,5 +4,5 @@ The **Projects** repository contains projects I have created and/or collaborated
 
 ### Mobile App:
 ***
-* [Crypto App(https://github.com/GioGonzalez212/Mobile-App)]
+* [Crypto App](https://github.com/GioGonzalez212/Mobile-App)
 ***
