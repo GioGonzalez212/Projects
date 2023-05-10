@@ -9,5 +9,9 @@ The **Projects** repository contains projects I have created and/or collaborated
 ### Websites:
 ***
 * [Home Page Files (Websites joined together in a single home page)](https://github.com/GioGonzalez212/Projects/tree/Websites)
-* [Home Page Browser Link]()
+* [Home Page Browser Link](https://giogonzalez212.github.io/Projects/)
+***
+### US Navy Project:
+***
+* [Repository]()
 ***
