@@ -6,3 +6,7 @@ The **Projects** repository contains projects I have created and/or collaborated
 ***
 * [Crypto App](https://github.com/GioGonzalez212/Mobile-App)
 ***
+### Basic Websites:
+***
+* [Resume (First ever website I made. Therefore, it was more for fun rather than looks)]()
+***
