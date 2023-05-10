@@ -16,5 +16,5 @@ The **Projects** repository contains projects I have created and/or collaborated
 * [Repository](https://github.com/ED2-MetaTagging/NETC-Project/tree/NETC-Flask)
 The US Navy project website page cannot be accessed as of this moment due to the AWS server being toggled off by order of the sponsor. Therefore, I provided the repository which contains all relevant files.
 
-[Project Documentation]()
+* [Project Documentation]()
 ***
