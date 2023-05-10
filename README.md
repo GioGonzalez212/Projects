@@ -8,5 +8,6 @@ The **Projects** repository contains projects I have created and/or collaborated
 ***
 ### Websites:
 ***
-* [Home Page (Websites joined together in a single home page]()
+* [Home Page Files (Websites joined together in a single home page)]()
+* [Home Page Browser Link]()
 ***
