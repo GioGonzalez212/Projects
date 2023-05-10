@@ -1,12 +1,8 @@
 # Projects
 
-### About Me: 
+### About: 
 
-***Aspiring ***
-
-### Education:
-
-***Florida Atlantic University: Bachelor of Computer Science***
+Aspiring
 
 ### Programming Languages:
 ***
